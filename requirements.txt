@@ -1,0 +1,8 @@
+gensim
+numpy
+plotly
+sklearn
+jupyter
+nltk
+pandas
+kaleido

@@ -1,0 +1,42 @@
+Organization contact information
+    0) 0.029*privacy + 0.026*policy + 0.019*question + 0.013*link + 0.013*website + 0.013*contact + 0.012*u + 0.011*practice + 0.010*third + 0.010*please
+
+Policy change
+    5) 0.023*privacy + 0.022*policy + 0.018*change + 0.012*time + 0.011*right + 0.010*data + 0.010*update + 0.010*term + 0.009*california + 0.009*personal
+
+Legal basis & Data protection
+    1) 0.036*gdpr + 0.030*6 + 0.017*1 + 0.015*fraud + 0.014*f + 0.013*data + 0.013*b + 0.012*right + 0.012*protection + 0.012*complaint
+
+First party collection: Opt-in, opt-out for marketing purposes
+    2) 0.022*email + 0.015*send + 0.014*opt + 0.012*product + 0.012*communication + 0.011*marketing + 0.010*may + 0.010*unsubscribe + 0.010*u + 0.010*promotion
+    4) 0.025*insert + 0.023*para + 0.021*digital + 0.018*2 + 0.014*3 + 0.014*alliance + 0.011*portal + 0.011*opt + 0.010*granted + 0.010*free
+
+First party collection: tracking data (cookies)
+    3) 0.045*cookie + 0.020*browser + 0.016*technology + 0.015*device + 0.015*website + 0.013*cookie + 0.011*file + 0.011*tracking + 0.011*site + 0.011*visit
+
+First party collection: Data about employees
+    10) 0.020*location + 0.011*password + 0.010*device + 0.009*professional + 0.009*sign + 0.008*employment + 0.008*account + 0.008*withdrawal + 0.007*optimize + 0.007*notification
+
+First party collection: Account information
+    6) 0.032*address + 0.021*name + 0.021*number + 0.015*purchase + 0.015*phone + 0.015*email + 0.011*inquiry + 0.010*payment + 0.010*telephone + 0.009*contact
+
+Special audience: California residents
+    13) 0.023*7 + 0.011*feedback + 0.010*california + 0.009*18 + 0.009*evaluate + 0.008*sufficient + 0.008*discretion + 0.008*resident + 0.008*anyone + 0.008*meaning
+
+Special audience: Children
+    7) 0.017*law + 0.014*pii + 0.013*request + 0.012*personal + 0.012*child + 0.011*right + 0.011*comply + 0.009*information + 0.008*applicable + 0.008*legal
+
+First party collection: Generic information
+    8) 0.028*personal + 0.025*purpose + 0.023*information + 0.023*category + 0.023*collect + 0.022*data + 0.015*collected + 0.015*use + 0.015*following + 0.013*processing
+
+Third party sharing in case of merge and acquisition
+    9) 0.013*social + 0.013*medium + 0.012*asset + 0.010*caloppa + 0.010*acquisition + 0.010*hesitate + 0.010*operates + 0.009*transfer + 0.009*merger + 008*require
+
+First party collection: Other
+    11) 0.022*de + 0.020*sell + 0.012*party + 0.012*property + 0.011*behavioral + 0.010*price + 0.010*disclose + 0.009*purchased + 0.009*obtained + 0.008*defend
+
+Data security
+    12) 0.022*security + 0.016*data + 0.012*state + 0.011*united + 0.011*personal + 0.009*card + 0.009*transmission + 0.008*payment + 0.008*transfer + 0.008*country
+
+Third party sharing: Advertising and analytics
+    14) 0.017*service + 0.016*google + 0.015*advertising + 0.014*website + 0.014*use + 0.013*third + 0.012*party + 0.012*product + 0.011*information + 0.011*analytics

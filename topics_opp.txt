@@ -1,0 +1,32 @@
+First party collection: Opt-in, opt-out for marketing purposes
+    0) 0.007*communication + 0.006*receipt + 0.006*device + 0.005*party + 0.005*third + 0.005*email + 0.005*opt + 0.004*promotional + 0.004*personal + 0.004*instruction
+
+Data security
+    1) 0.009*healthcare + 0.005*secure + 0.005*security + 0.005*social + 0.005*opt + 0.005*mail + 0.005*network + 0.004*data + 0.004*personal + 0.004*successor
+
+First party collection: Generic information 
+    2) 0.008*collect + 0.006*job + 0.004*identifiable + 0.004*site + 0.004*personally + 0.004*cancel + 0.003*service + 0.003*information + 0.003*passive + 0.003*use
+    7) 0.024*account + 0.005*policy + 0.005*personal + 0.005*collect + 0.005*privacy + 0.005*service + 0.005*website + 0.005*question + 0.004*use + 0.004*site
+
+Third party sharing: Advertising and analytics
+    3) 0.005*personal + 0.004*service + 0.004*health + 0.004*party + 0.004*conversation + 0.004*third + 0.004*poll + 0.004*promotion + 0.003*policy + 0.003*linked
+    12) 0.009*cookie + 0.007*site + 0.007*service + 0.006*website + 0.006*web + 0.006*use + 0.006*personal + 0.005*third + 0.005*advertising + 0.005*party
+    14) 0.006*party + 0.006*third + 0.006*cookie + 0.006*share + 0.006*service + 0.005*personal + 0.005*may + 0.005*advertising + 0.005*website + 0.005*site
+
+Special audience: Children
+    4) 0.008*child + 0.007*email + 0.006*personal + 0.006*u + 0.006*service + 0.006*website + 0.006*collect + 0.005*user + 0.005*communication + 0.005*information
+    11) 0.007*website + 0.006*child + 0.005*collect + 0.005*address + 0.005*visit + 0.005*party + 0.005*third + 0.004*site + 0.004*identifiable + 0.004*privacy
+
+First party collection: tracking data (cookies)
+    5) 0.008*cookie + 0.008*personal + 0.007*website + 0.006*service + 0.006*use + 0.006*site + 0.006*address + 0.006*u + 0.005*policy + 0.005*email
+    10) 0.014*cookie + 0.008*flash + 0.006*browser + 0.006*collect + 0.005*data + 0.005*device + 0.005*user + 0.005*personal + 0.005*account + 0.005*service
+
+First party collection: Financial information
+    6) 0.006*ticket + 0.005*mastercard + 0.005*onto + 0.005*instruct + 0.004*obligation + 0.003*active + 0.003*personal + 0.003*long + 0.003*licensors + 0.003*retain
+
+Third party sharing: Generic information
+    8) 0.007*service + 0.006*site + 0.006*data + 0.005*party + 0.005*security + 0.005*third + 0.004*personal + 0.004*may + 0.004*policy + 0.004*provider
+    9) 0.010*resume + 0.009*gameplay + 0.006*game + 0.005*third + 0.005*party + 0.005*collect + 0.005*website + 0.004*social + 0.004*type + 0.004*beacon
+
+Special audience: California residents
+    13) 0.007*california + 0.007*change + 0.006*truste + 0.006*privacy + 0.005*policy + 0.005*request + 0.005*u + 0.005*contact + 0.005*email + 0.004*personal
