@@ -43,7 +43,7 @@ def files(path: str, pattern: str):
 
 def resolve_group_name(id, groups):
     for g in groups:
-        if id in g["topics"]:
+        if id == g["id"]:
             return g["name"]
         
     return None
